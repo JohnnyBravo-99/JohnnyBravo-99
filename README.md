@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnnyBravo-99
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning C++, C#, and full-stack web development.
 - 💞️ I’m looking to collaborate on anything really. I am trying to learn and expand my skills/abilities as a programmer.
 - 📫 How to reach me jackarnold1497@gmail.com
 
